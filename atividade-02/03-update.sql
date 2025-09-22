@@ -1,0 +1,1 @@
+UPDATE proditos SET preco = preco * 0.8;
