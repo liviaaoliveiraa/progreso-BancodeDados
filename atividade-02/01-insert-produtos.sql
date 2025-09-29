@@ -12,7 +12,7 @@ CREATE TABLE produtos (
 INSERT INTO produtos (nome, marca, preco, categoria, estoque)
 VALUES 
 ('Soft Radiance Base Liquida', 'Mascavo', 129, 'maquiagem', 40),
-('Watermelon Glow', 'Glow Recipe', 578, 'Skin Care', 49),
+('Watermelon Glow', 'Glow Recipe', 578, 'SkinCare', 49),
 ('Body Splash Obsessed Desodorante Colonia', 'WePink', 30, 'perfume', 120),
 ('Creme Hidratante', 'Principia', 40, 'SkinCare', 320),
 ('Wella Mascara de Nutrição', 'Wella', 98, 'Capilar', 20),
